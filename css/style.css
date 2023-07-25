@@ -146,6 +146,7 @@ a{
 }
 .footer_top_content_item:not(:last-child) {
   margin-bottom: 1.7rem
+  }
 .footer_top_content_title {
   font-size: 1.6rem;
   line-height: 2.20rem;
